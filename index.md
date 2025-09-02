@@ -2,9 +2,9 @@
 Welcome, I hope it's cozy
 
 # My favorite things in CS193:
--No exams, class is supposed to be somewhat fun
--TAs are helpful on Ed
--I get to learn things that help me beat Purdue CS
+- No exams, class is supposed to be somewhat fun
+- TAs are helpful on Ed
+- I get to learn things that help me beat Purdue CS
 
 
 
