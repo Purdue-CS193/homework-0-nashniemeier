@@ -1,7 +1,15 @@
-## Welcome to Github Pages
+## Nash Niemeier's firs CS193 Homework
+Welcome, I hope it's cozy
+
+# My favorite things in CS193:
+-No exams, class is supposed to be somewhat fun
+-TAs are helpful on Ed
+-I get to learn things that help me beat Purdue CS
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-### AHHHH I'm screaming
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
