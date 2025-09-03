@@ -1,4 +1,4 @@
-## Nash Niemeier's firs CS193 Homework
+## Nash Niemeier's first CS193 Homework
 Welcome, I hope it's cozy
 
 # My favorite things in CS193:
